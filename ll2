@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{
+            background-image:url("uyuyuyuyuyuyuyuyuyuyuyuy.png");
+            background-repeat:no-repeat;
+            background-size:100% 700px;
+        }
+        .l2{
+            color:aliceblue;
+            max-width: 100%;
+            max-height: 100%;
+            text-align: center;
+            margin: auto;
+            font-size: 30px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+     .htsm{   
+        color:aliceblue;
+            max-width: 100%;
+            max-height: 100%;
+            text-align: center;
+            margin: auto;
+            font-size: 30px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+    .hhassan{
+        color:aliceblue;
+            max-width: 100%;
+            max-height: 100%;
+            text-align: center;
+            margin: auto;
+            font-size: 30px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+    </style>
+</head>
+
+<body>
+    <h3 class="l2">lesson  2</h3>
+    <h2 class="htsm">How to be rich</h2>
+    <p class="hhassan">you can exchange your low-value currency for a large-value currency, which gradually increases its value You can do other's work or do a project to earn money</p>
+
+
+
+
+
+
+
+
+
+</body>
+
+    </html>
